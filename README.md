@@ -43,6 +43,6 @@ This project is open-source and free to use for educational and personal purpose
 This project is still a work in progress and may have some bugs or missing features. Any feedback or contributions are welcome!
 
 ---
-**Author**: [Nishi]
+**Author**: Nishi
 
 
