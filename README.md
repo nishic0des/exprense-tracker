@@ -39,6 +39,10 @@ No installation is required. Simply download the files and open `index.html` in 
 ## License
 This project is open-source and free to use for educational and personal purposes.
 
+## Work in progress
+This project is still a work in progress and may have some bugs or missing features. Any feedback or contributions are welcome!
+
 ---
-**Author**: [Your Name]
+**Author**: [Nishi]
+
 
